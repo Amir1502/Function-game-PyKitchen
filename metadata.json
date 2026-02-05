@@ -1,0 +1,5 @@
+{
+  "name": "PyKitchen: The Code Chef",
+  "description": "An interactive educational game where you cook up Python code! Select ingredients (variables), choose the right tools (functions), and fulfill orders to learn programming concepts.",
+  "requestFramePermissions": []
+}
